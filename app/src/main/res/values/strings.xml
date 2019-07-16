@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">PreparacaoTeste</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name" translatable="false">" Test Preparation"</string>
+    <string name="action_settings" translatable="false">Settings</string>
 </resources>
